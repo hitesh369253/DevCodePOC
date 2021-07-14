@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{D8BF71B4-994D-47BD-8371-FCA1BF5C30BB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdvPrismTabNavigation/ViewModels/ViewModelBase.cs">
+    <Files>
+      <File FileName="AdvPrismTabNavigation.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="AdvPrismTabNavigation.Android/MainActivity.cs" Line="24" Column="36" />
+      <File FileName="AdvPrismTabNavigation/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="AdvPrismTabNavigation/Interfaces/IMyTabbedPageSelectedTab.cs" Line="1" Column="1" />
+      <File FileName="AdvPrismTabNavigation/ViewModels/MyTabbedPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="AdvPrismTabNavigation/ViewModels/DetailPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="AdvPrismTabNavigation/ViewModels/ViewModelBase.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AdvPrismTabNavigation" expanded="True">
+            <Node name="AdvPrismTabNavigation" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="ViewModelBase.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="AdvPrismTabNavigation.Android" expanded="True" />
+            <Node name="AdvPrismTabNavigation.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AdvPrismTabNavigation.Android PreferredExecutionTarget="Android.SelectDevice" />
+</Properties>

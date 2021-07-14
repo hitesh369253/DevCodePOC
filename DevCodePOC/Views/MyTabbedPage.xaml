@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage
+    x:Class="DevCodePOC.Views.MyTabbedPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:DevCodePOC.Views;assembly=DevCodePOC"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    Title="{Binding Title}"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    SelectedTabIndex="{Binding SelectedTab}">
+    <TabbedPage.Children>
+        <local:TabChild1Page />
+        <local:TabChild2Page />
+       
+    </TabbedPage.Children>
+</TabbedPage>

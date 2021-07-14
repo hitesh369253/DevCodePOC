@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DevCodePOC.Views.TabChild2Page"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    Title="{Binding Title}"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    BackgroundColor="#f1f1f1">
+    <ContentPage.Icon>
+        <OnPlatform x:TypeArguments="FileImageSource">
+            <On Platform="iOS" Value="tab2icon.png" />
+        </OnPlatform>
+    </ContentPage.Icon>
+
+    <Grid HorizontalOptions="FillAndExpand" Padding="10" VerticalOptions="CenterAndExpand">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+             <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Picker Title="Select an Item"
+            TitleColor="Blue" Grid.Row="0"
+            ItemsSource="{Binding EssentialItems}"
+            ItemDisplayBinding="{Binding Text}"
+            SelectedItem="{Binding SelectedEssential}" />
+
+        <Button Text="Fetch" Command="{Binding GoToDetailPageCommand}" Margin="0,10,0,0"  Grid.Row="1"
+                HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand"/>
+       
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,92 @@
+Function=SystemNative_ConvertErrorPlatformToPal
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_ConvertErrorPalToPlatform
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_StrErrorR
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_OpenDir
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_GetReadDirRBufferSize
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_ReadDirR
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_CloseDir
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_ReadLink
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_Stat2
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_LStat2
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_Symlink
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_CopyFile
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_GetEGid
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_GetEUid
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_Link
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_MkDir
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_Rename
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=SystemNative_Unlink
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/mscorlib.dll
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/Xamarin.iOS.dll
+Function=NetSecurityNative_ReleaseGssBuffer
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_DisplayMinorStatus
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_DisplayMajorStatus
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_ImportUserName
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_ImportPrincipalName
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_ReleaseName
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredSpNego
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_InitiateCredWithPassword
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_ReleaseCred
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_InitSecContext
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=NetSecurityNative_DeleteSecContext
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=xamarin_start_wwan
+	/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

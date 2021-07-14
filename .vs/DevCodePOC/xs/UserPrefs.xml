@@ -1,0 +1,77 @@
+﻿<Properties StartupConfiguration="{B838F00D-A41D-47D8-8A38-B06AD57D6F38}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tests.DevCodePOC.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DevCodePOC.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E4C4BB27-479E-4784-82C3-F40989D48440" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevCodePOC.UITest/TabChildSlidePage.cs">
+    <Files>
+      <File FileName="DevCodePOC/Views/MyTabbedPage.xaml" Line="10" Column="11" />
+      <File FileName="DevCodePOC/Views/DetailPage.xaml" />
+      <File FileName="DevCodePOC/ViewModels/TabChild1PageViewModel.cs" />
+      <File FileName="DevCodePOC/ViewModels/TabChild2PageViewModel.cs" />
+      <File FileName="DevCodePOC/ViewModels/DetailPageViewModel.cs" Line="66" Column="28" />
+      <File FileName="DevCodePOC/ViewModels/ViewModelBase.cs" />
+      <File FileName="DevCodePOC/App.xaml.cs" />
+      <File FileName="DevCodePOC/Constants.cs" />
+      <File FileName="DevCodePOC/ViewModels/MyTabbedPageViewModel.cs" />
+      <File FileName="DevCodePOC/Controls/WelcomeMssgPopUp.xaml" />
+      <File FileName="DevCodePOC/Controls/WelcomeMssgPopUp.xaml.cs" />
+      <File FileName="DevCodePOC/Views/TabChild1Page.xaml" />
+      <File FileName="DevCodePOC.Android/MainActivity.cs" Line="14" Column="10" />
+      <File FileName="DevCodePOC/Models/SavePrefrences.cs" />
+      <File FileName="DevCodePOC/Views/TabChild2Page.xaml" />
+      <File FileName="DevCodePOC/Views/TabChild1Page.xaml.cs" />
+      <File FileName="DevCodePOC/Views/TabChild2Page.xaml.cs" />
+      <File FileName="DevCodePOC.xUnitTest/Test.cs" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/prism.unity.forms/8.1.97/readme.txt" />
+      <File FileName="DevCodePOC/Views/MyTabbedPage.xaml.cs" />
+      <File FileName="DevCodePOC.iOS/Info.plist" />
+      <File FileName="DevCodePOC.xUnitTest/TestApp.cs" Line="21" Column="1" />
+      <File FileName="DevCodePOC.Android/Properties/AndroidManifest.xml" Line="5" Column="1" />
+      <File FileName="DevCodePOC.UITest/AppInitializer.cs" Line="47" Column="37" />
+      <File FileName="DevCodePOC.iOS/AppDelegate.cs" Line="24" Column="38" />
+      <File FileName="DevCodePOC.UITest/TestFixtureBase.cs" Line="26" Column="28" />
+      <File FileName="DevCodePOC.UITest/TabChildSlidePage.cs" Line="1" Column="1" />
+      <File FileName="DevCodePOC.UITest/WaitTimes.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DevCodePOC" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="DevCodePOC.UITest" expanded="True">
+                <Node name="TabChildSlidePage.cs" selected="True" />
+              </Node>
+              <Node name="DevCodePOC.UnitTest" expanded="True" />
+            </Node>
+            <Node name="DevCodePOC.iOS" expanded="True">
+              <Node name="Packages" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="DevCodePOC" expanded="True" selected="True">
+            <Node name="Tests" expanded="True">
+              <Node name="DevCodePOC.UITest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DevCodePOC.Android PreferredExecutionTarget="Android.14151JEC208406" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/ViewModels/DetailPageViewModel.cs" relfile="DevCodePOC/ViewModels/DetailPageViewModel.cs" line="77" column="1" />
+      <Breakpoint file="/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.UITest/AppInitializer.cs" relfile="DevCodePOC.UITest/AppInitializer.cs" line="48" column="2" />
+      <Breakpoint file="/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.UITest/TabChildSlidePage.cs" relfile="DevCodePOC.UITest/TabChildSlidePage.cs" line="27" column="1" />
+      <Breakpoint file="/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC.UITest/TabChildSlidePage.cs" relfile="DevCodePOC.UITest/TabChildSlidePage.cs" line="28" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

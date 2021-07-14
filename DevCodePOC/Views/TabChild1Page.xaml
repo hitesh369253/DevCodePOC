@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DevCodePOC.Views.TabChild1Page"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:prism="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+     xmlns:control="clr-namespace:DevCodePOC.Controls;assembly=DevCodePOC"
+    Title="{Binding Title}"
+    prism:ViewModelLocator.AutowireViewModel="True"
+    BackgroundColor="#f1f1f1">
+    <ContentPage.Icon>
+        <OnPlatform x:TypeArguments="FileImageSource">
+            <On Platform="iOS" Value="tab1icon.png" />
+        </OnPlatform>
+    </ContentPage.Icon>
+     <AbsoluteLayout>
+         
+
+     <Grid HorizontalOptions="FillAndExpand" AbsoluteLayout.LayoutBounds="0,0,1,1"
+            AbsoluteLayout.LayoutFlags="All" VerticalOptions="CenterAndExpand" RowSpacing="0" ColumnSpacing="0" Padding="10" >
+
+         <Grid VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand" RowSpacing="0" ColumnSpacing="0">
+           <Grid.RowDefinitions>
+             <RowDefinition Height="*"/>
+             <RowDefinition Height="*"/>
+             <RowDefinition Height="*"/>
+         </Grid.RowDefinitions>
+
+         <Entry Text="{Binding EntryText}" Grid.Row="0" Placeholder="Enter Data" AutomationId="entryAutomationId" HorizontalOptions="FillAndExpand"
+               VerticalOptions="CenterAndExpand"/>
+
+         <Label Text="{Binding EntryText}" Grid.Row="1" Margin="0,8,0,0" x:Name="rotatingLabel"
+               FontSize="Large" Rotation="{Binding Source={x:Reference Name=slider}, Path=Value}"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="CenterAndExpand" />
+
+        <Slider Maximum="360" Grid.Row="2" x:Name="slider" Value="{Binding SliderValue}" Margin="0,8,0,0" IsEnabled="{Binding IsSliderVisible}"
+                />
+</Grid>
+         <control:WelcomeMssgPopUp Grid.RowSpan="2" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" IsVisible="{Binding IsWelcomepopupVisibel}"/>
+
+    </Grid>
+
+        </AbsoluteLayout>
+</ContentPage>

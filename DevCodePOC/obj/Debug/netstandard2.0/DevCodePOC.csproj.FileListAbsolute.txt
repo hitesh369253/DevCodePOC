@@ -1,0 +1,16 @@
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/bin/Debug/netstandard2.0/DevCodePOC.deps.json
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/bin/Debug/netstandard2.0/DevCodePOC.dll
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/bin/Debug/netstandard2.0/DevCodePOC.pdb
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/Controls/WelcomeMssgPopUp.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/Views/DetailPage.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/Views/MyTabbedPage.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/Views/TabChild1Page.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/Views/TabChild2Page.xaml.g.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.AssemblyInfoInputs.cache
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.AssemblyInfo.cs
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.csproj.CoreCompileInputs.cache
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.dll
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.pdb
+/Users/hiteshkumarsunkarapeli/Downloads/DevCodePOC/DevCodePOC/obj/Debug/netstandard2.0/DevCodePOC.csproj.AssemblyReference.cache

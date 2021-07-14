@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.8.0.1821" />
+    <PackageReference Include="Prism.Unity.Forms" Version="7.2.0.1422" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Views\TabChild1Page.xaml.cs">
+      <DependentUpon>TabChild1Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\TabChild2Page.xaml.cs">
+      <DependentUpon>TabChild2Page.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\MyTabbedPage.xaml.cs">
+      <DependentUpon>MyTabbedPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="Views\DetailPage.xaml.cs">
+      <DependentUpon>DetailPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Views\TabChild1Page.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\TabChild2Page.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\MyTabbedPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Views\DetailPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Controls\" />
+  </ItemGroup>
+</Project>

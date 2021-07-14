@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="DevCodePOC.Views.DetailPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:mvvm="clr-namespace:Prism.Mvvm;assembly=Prism.Forms"
+    Title="{Binding Title}"
+    mvvm:ViewModelLocator.AutowireViewModel="True">
+    <ContentPage.Content>
+
+        <StackLayout
+            Padding="20"
+            HorizontalOptions="Fill"
+            VerticalOptions="CenterAndExpand">
+           
+
+            <Label Text="{Binding EssentialsDetails}"
+                   HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="CenterAndExpand"
+                   FontSize="Medium"/>
+
+            <Button Margin="0,10,0,0"
+                BackgroundColor="#2196F3"
+                Command="{Binding GoBackToTabChild1PageCommand}"
+                Text="DisMiss"
+                TextColor="White" />
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>
